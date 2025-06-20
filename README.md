@@ -5,10 +5,10 @@
 ---
 
 ## 📁 Project Structure
-├── index.html # Home Page
-├── menu.html # Menu Page
-├── contact.html # Contact/Booking Page
-└── style.css # External CSS styling
+ # Home Page
+ # Menu Page
+ # Contact/Booking Page
+ # External CSS styling
 
 ---
 
